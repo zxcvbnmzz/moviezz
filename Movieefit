@@ -1,0 +1,39 @@
+#EXTM3U
+
+// M3U8 By @zxcvbnm (t.me/c0day)
+#EXTINF:-1 group-title="LOCAL", Greenland (2020)
+http://client.more-itv.com:8080/movie/57ijhg/e46ujj/118706.mp4
+#EXTINF:-1 group-title="LOCAL", Citation (2020)
+http://client.more-itv.com:8080/movie/57ijhg/e46ujj/118698.mp4
+#EXTINF:-1 group-title="LOCAL", The Nest (2020)
+http://client.more-itv.com:8080/movie/57ijhg/e46ujj/118727.mkv
+#EXTINF:-1Goblin (2020)
+http://client.more-itv.com:8080/movie/57ijhg/e46ujj/118704.mp4
+#EXTINF:-1 group-title="LOCAL",The Great Escapists S01 E05
+http://client.more-itv.com:8080/series/57ijhg/e46ujj/126267.mkv
+#EXTINF:-1 group-title="LOCAL",The Great Escapists S01 E06
+http://client.more-itv.com:8080/series/57ijhg/e46ujj/126268.mkv
+
+
+
+
+#EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg" group-title="NEWS",SEMOGA MASIH JUMPA BULAN DEPAN 
+http://codaytv.eu/coday.ts?9
+#EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg" group-title="RELIGIOUS",SEMOGA MASIH JUMPA BULAN DEPAN 
+http://codaytv.eu/coday.ts?77
+#EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg" group-title="SPORTS",SEMOGA MASIH JUMPA BULAN DEPAN 
+http://codaytv.eu/coday.ts?33
+#EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg" group-title="ENTERTAINMENT",SEMOGA MASIH JUMPA BULAN DEPAN 
+http://codaytv.eu/coday.ts?34
+#EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg" group-title="MOVIES",SEMOGA MASIH JUMPA BULAN DEPAN 
+http://codaytv.eu/coday.ts?13
+#EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg" group-title="MUSIC",SEMOGA MASIH JUMPA BULAN DEPAN 
+http://codaytv.eu/coday.ts?28
+#EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg" group-title="KIDS",SEMOGA MASIH JUMPA BULAN DEPAN 
+http://codaytv.eu/coday.ts?62
+#EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg" group-title="KNOWLEDGE",SEMOGA MASIH JUMPA BULAN DEPAN 
+http://codaytv.eu/coday.ts?41
+#EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg" group-title="HBO GO",SEMOGA MASIH JUMPA BULAN DEPAN 
+http://codaytv.eu/coday.ts?19
+#EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg" group-title="LIFESTYLE",SEMOGA MASIH JUMPA BULAN DEPAN 
+http://codaytv.eu/coday.ts?84
