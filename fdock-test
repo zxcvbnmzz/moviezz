@@ -40,13 +40,6 @@ https://mavtv-1.sinclair.wurl.com/manifest/2000.m3u8
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_2000k.m3u8
 
 
-
-
-
-
-#EXTINF:-1 tvg-id="NGW.US" tvg-logo="https://www.seekpng.com/png/detail/82-828948_national-geographic-logo-transparent-wwwimgkidcom-nat-geo.png" group-title="Astro",NatGeo Wild HD
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-
 #EXTINF:-1 tvg-id="SPO.UK" tvg-logo="http://spotlighttv.co.uk/wp-content/uploads/2019/06/cropped-Cropped-Spotlight-Logo-1.jpg" group-title="UK",Spotlight TV
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
 #EXTINF:-1 tvg-id="TG4.IE" tvg-logo="https://static.epg.best/ie/TG4.ie.png" group-title="UK",TG4
