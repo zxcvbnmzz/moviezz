@@ -1,22 +1,108 @@
 
-#EXTINF:-1 tvg-id="XTY.MY" tvg-logo="http://astrokentico.s3.amazonaws.com/xuan/channels/325.png" group-title="Astro", Xiao Tai Yang 小太阳
-http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AOD311.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" group-title="Astro",Astro AOD HD 311
+
 #http://50.7.161.82:8278/streams/d/AodHD/playlist.m3u8
+
 http://198.16.106.58:8278/streams/d/AodHD/playlist.m3u8 
 
+
+
 #EXTINF:-1 tvg-id="CM.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/CMC_English_full_color_black_text_2.jpg/200px-CMC_English_full_color_black_text_2.jpg" group-title="Astro",Celestial Movies 天映频道
+
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 
+
+
 #EXTINF:-1 tvg-id="CC.MY" tvg-logo="https://1.bp.blogspot.com/-JitJUuWTMxg/VH--1LtXqGI/AAAAAAAAAo0/FL_bgsBFjeU/s1600/CELESTIAL%2BCLASSIC%2BMOVIES%2Blogo.png" group-title="Astro",Celestial Classic 天映经典
+
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
+
+
 #EXTINF:-1 tvg-id="HBO.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Astro",HBO HD
+
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
+
+
 #EXTINF:-1 tvg-id="HGT.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/320px-HGTV_US_Logo_2015.svg.png" group-title="Astro",HGTV
+
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="NGW.US" tvg-logo="https://www.seekpng.com/png/detail/82-828948_national-geographic-logo-transparent-wwwimgkidcom-nat-geo.png" group-title="Astro",NatGeo Wild HD
+
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="SPO.UK" tvg-logo="http://spotlighttv.co.uk/wp-content/uploads/2019/06/cropped-Cropped-Spotlight-Logo-1.jpg" group-title="UK",Spotlight TV
+
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TG4.IE" tvg-logo="https://static.epg.best/ie/TG4.ie.png" group-title="UK",TG4
+
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-ID="CHD.US" tvg-logo="http://miro.medium.com/max/2656/1*DhgWWj7DTZ-kD2zWhBBwAg.png" group-title="US",Cheddar
+
+https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/4.m3u8
+
+
+
+#EXTINF:-1 tvg-id="FTV.Int" tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="US",Fashion TV
+
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-ID="FON.UK" tvg-logo="http://static.epg.best/bg/FoodNetwork.bg.png" group-title="US",Food Network
+
+http://5.135.92.133:52841/out/u/502_1.m3u8
+
+#EXTINF:-1 tvg-ID="FSP.US" tvg-logo="http://i.imgur.com/PH1Gg4p.png" group-title="US",Free Speech TV
+
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+
+#EXTINF:-1 tvg-ID="GLN.CA" tvg-logo="https://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/news_2x.png" group-title="US",Global News
+
+https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
+
+#EXTINF:-1 tvg-id="ICI.CA" tvg-logo="https://static.epg.best/ca/ICITelevisionMontreal.ca.png" group-title="US",ICI Tele
+
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8|X-Forwarded-For=24.37.42.200
+
+#EXTINF:-1 tvg-ID="ICI.News" tvg-logo="https://static.epg.best/ca/RDINews.ca.png" group-title="US",ICI RDI
+
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+
+#EXTINF:-1 tvg-id="MLS.US" tvg-logo="https://worldsoccertalk.com/wp-content/uploads/2020/03/mls-tv-ratings-opening-weekend.jpg" group-title="US",MLS TV
+
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+
+#EXTINF:-1 tvg-ID="MAV.US" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png" group-title="US",MavTV
+
+https://mavtv-1.sinclair.wurl.com/manifest/2000.m3u8
+
+#EXTINF:-1 tvg-ID="POP.US" tvg-logo="https://static.epg.best/us/PopTV.us.png" group-title="US",Pop
+
+https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+
+#EXTINF:-1 tvg-id="SEC.US" tvg-logo="https://static.epg.best/us/SECNetwork.us.png" group-title="US",SEC Network
+
+https://gma2.blab.email/sec.m3u8
+
+#EXTINF:-1 tvg-id="STA.US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Stadium_TV_network_logo.png" group-title="US",Stadium Network
+
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_2000k.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="NGW.US" tvg-logo="https://www.seekpng.com/png/detail/82-828948_national-geographic-logo-transparent-wwwimgkidcom-nat-geo.png" group-title="Astro",NatGeo Wild HD
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
